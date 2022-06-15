@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Foryfood</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">پروفایل شخصی</string>
+    <string name="favorite">رستوران مورد علاقه</string>
+    <string name="history">تاریخچه سفارشات</string>
+    <string name="faq">FAQs</string>
+    <string name="logout">خروج</string>
+    <string name="home">خانه</string>
+    <string name="username">نام کاربری</string>
+
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="mobile">0123456789</string>
+    <string name="foody">ّForyfood</string>
+    <string name="login_logo">login_logo</string>
+    <string name="enter_mobile_number">شماره موبایل خود را وارد نمایید</string>
+    <string name="enter_password">رمز عبور خود را وارد نمایید</string>
+    <string name="Login">ورود</string>
+    <string name="forgot_password">رمز علور خود را فراموش کردید ؟</string>
+    <string name="new__user">کاربر جدید هستید ؟</string>
+    <string name="name_new">نام خود را وارد نمایید</string>
+    <string name="email_address">آدرس ایمیل</string>
+    <string name="mobile_number">شماره موبایل</string>
+    <string name="delivery_address">آدرس سفارش</string>
+    <string name="password">رمز علور خود را وارد نمایید</string>
+    <string name="confirm_password">تایید رمز عبور</string>
+    <string name="register">صبت و نام</string>
+    <string name="logo_forgot">forgot_logo</string>
+    <string name="details">شماره موبایل و ایمیل صبت شده را در کادر پایین وارد نمایید</string>
+    <string name="old_mobile_number">شماره موبایل</string>
+    <string name="old_email">آدرس ایمیل</string>
+    <string name="next_btn">بعدی</string>
+    <string name="enter_the_received_otp_below">کد دریافت شده را وارد نمایید</string>
+    <string name="otp_4_characters">کد ( 4 رقمی )</string>
+    <string name="button_submit">دکمه</string>
+    <string name="submit">ثبت</string>
+    <string name="new_password">رمز جدید</string>
+    <string name="restaurant_name">اسم رستوران</string>
+    <string name="rs_299_person">تومن29900/نفر</string>
+    <string name="_4_5">4.5</string>
+    <string name="resLogo">انجام</string>
+    <string name="confirm_order">سفارش خود را تایید نمایید</string>
+    <string name="faq_answer_one">در سفارش اجازه ندارید یک سفارش را همراه با دو پشقاب سفارش دهید </string>
+    <string name="faq_answer_two">بستگی به فاصله شما با رستوران دارد</string>
+    <string name="faq_answer_three">در صفحه ورود فراموشی رمز عبور را بزنید و اطلاعت را پر نمایید.</string>
+    <string name="faq_answer_four">هنوز در دست رس نیست در دست انجام است ..</string>
+    <string name="faq_answer_five">"در قسمت نویگیتور سمت چپ قسمت تاریخجه سفارسات کلیک نمایید تا لیست سفارشات خود را مشاهده نمایید "</string>
+    <string name="faq_answer_six">اطلاعت خود را در قسمت درباره کامل کنید </string>
+    <string name="no_favorites">شما هیچ رستوران مورد علاقه ای ندارید</string>
+    <string name="no_orders">شما هنوز سفارشی ثبت نکرده اید</string>
+    <string name="order_history_static_text">سفارشات قبلی شما در پایین لیست شده است :</string>
+    <string name="name">نام</string>
+    <string name="dummy_phone">+98-1234567890</string>
+    <string name="email">آدرس ایمیل</string>
+    <string name="address">آدرس سفارش</string>
+    <string name="go_to_cart">ثبت در کارت</string>
+    <string name="dummy_date">1401 / 02 / 26</string>
+    <string name="order_placed">سفارش شما با موفقیت انجام گردید!</string>
+    <string name="filter">فیلتر</string>
+    <string name="faqs">FAQs</string>
+    <string name="order_history">تاریخجه سفارشات</string>
+    <string name="favorites">رستوران مورد علاقه </string>
+    <string name="my_profile">پروفایل شخصی</string>
+    <string name="enter_name">نام خودر را وارد نمایید</string>
+    <string name="choose_password">رمز عبور ( حداقل 4 کارکتر ) </string>
+    <string name="registration">ثبت و نام </string>
+    <string name="next">بعدی</string>
+    <string name="enter_mobile_forgot_password">در کادر پایین موبایل و ایمیل ثبت و نام شده را وارد نمایید</string>
+    <string name="otp">کد را وارد نمایید</string>
+    <string name="enter_otp">کد دریافت شده را وارد نمایید</string>
+    <string name="login">ورود</string>
+    <string name="register_yourself">ثبت و نام نمایید</string>
+    <string name="rs_400">40000 تومن</string>
+
+    <array name="filters">
+        <item>هزینه ( کم به زیاد ) </item>
+        <item>هزینه ( زیاد به کم ) </item>
+        <item>امتیاز</item>
+    </array>
+
+</resources>

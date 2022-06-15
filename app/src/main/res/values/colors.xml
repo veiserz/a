@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#D94B4B</color>
+    <color name="colorPrimaryDark">#05056D</color>
+    <color name="colorPrimaryLight">#ff5039</color>
+    <color name="colorAccent">#cb202d</color>
+    <color name="cart_button">#05056D</color>
+</resources>
