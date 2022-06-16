@@ -1,20 +1,22 @@
-# Foody
-# A Food Ordering App which will display a list of restaurants and user can order food from any of the restaurant.
+# فوری فود
+# یک برنامه سفارش غذا هستش که با استفاده از دیتابیس آنلاین آماده طراحی شده که غذا های خارجی به همراه پیش غذا نمایش می دهد.
 
-The app has several Functionalities like:
+این برنامه دارای چندین ویژگی است : 
 
-User Registration. 
+ثبت و نام در برنامه بصورت انلاین
 
-User login.
+ورود به برنامه 
 
-Reset Password.
+تغییر رمز عبور
 
-Viewing food menu. 
+نماییش لیست غذا ها 
 
-Filtering food menu by price.
+فیلتر کردن رستوران ها بر اساس غذایشان
 
-Viewing product details.
+نمایش اطلاعات غذا
 
-Adding food to cart.
+اضافه کردن به لیست خرید و  
 
-And Place food Order.
+ثبت و سفارش
+
+
